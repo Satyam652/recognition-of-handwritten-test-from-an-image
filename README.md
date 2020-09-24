@@ -1,0 +1,1 @@
+# recognition-of-handwritten-test-from-an-image
